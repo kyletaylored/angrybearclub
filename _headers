@@ -1,0 +1,44 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/angrybearclub/offline-plugin-app-shell-fallback/
+  Link: </angrybearclub/commons-6eb05cafcaf7e7e2c081.js>; rel=preload; as=script
+  Link: </angrybearclub/app-16818cb4b9048e6182f1.js>; rel=preload; as=script
+  Link: </angrybearclub/path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </angrybearclub/component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-layouts-index-js-1b195f0892477aafbdb6.js>; rel=preload; as=script
+/angrybearclub/my-second-post/
+  Link: </angrybearclub/commons-6eb05cafcaf7e7e2c081.js>; rel=preload; as=script
+  Link: </angrybearclub/app-16818cb4b9048e6182f1.js>; rel=preload; as=script
+  Link: </angrybearclub/path---my-second-post-ec6dbbdf33849d754d76.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-templates-blog-post-js-3f1cdcf8d077db5fba6b.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-layouts-index-js-1b195f0892477aafbdb6.js>; rel=preload; as=script
+/angrybearclub/hello-world/
+  Link: </angrybearclub/commons-6eb05cafcaf7e7e2c081.js>; rel=preload; as=script
+  Link: </angrybearclub/app-16818cb4b9048e6182f1.js>; rel=preload; as=script
+  Link: </angrybearclub/path---hello-world-1dbaa53a8a48cf30c783.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-templates-blog-post-js-3f1cdcf8d077db5fba6b.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-layouts-index-js-1b195f0892477aafbdb6.js>; rel=preload; as=script
+/angrybearclub/hi-folks/
+  Link: </angrybearclub/commons-6eb05cafcaf7e7e2c081.js>; rel=preload; as=script
+  Link: </angrybearclub/app-16818cb4b9048e6182f1.js>; rel=preload; as=script
+  Link: </angrybearclub/path---hi-folks-bbefe6dee10881aa7337.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-templates-blog-post-js-3f1cdcf8d077db5fba6b.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-layouts-index-js-1b195f0892477aafbdb6.js>; rel=preload; as=script
+/angrybearclub/
+  Link: </angrybearclub/commons-6eb05cafcaf7e7e2c081.js>; rel=preload; as=script
+  Link: </angrybearclub/app-16818cb4b9048e6182f1.js>; rel=preload; as=script
+  Link: </angrybearclub/path---index-ec21f2c75d81e4f0b56a.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-pages-index-js-378b5cd6d70e8d0eb692.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-layouts-index-js-1b195f0892477aafbdb6.js>; rel=preload; as=script
+/angrybearclub/profile/
+  Link: </angrybearclub/commons-6eb05cafcaf7e7e2c081.js>; rel=preload; as=script
+  Link: </angrybearclub/app-16818cb4b9048e6182f1.js>; rel=preload; as=script
+  Link: </angrybearclub/path---profile-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-pages-profile-index-jsx-676581e482a5972f9812.js>; rel=preload; as=script
+  Link: </angrybearclub/component---src-layouts-index-js-1b195f0892477aafbdb6.js>; rel=preload; as=script
