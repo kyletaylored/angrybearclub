@@ -7,7 +7,7 @@ module.exports = {
     twitter: 'kyletaylored',
     adsense: '',
   },
-  pathPrefix: '/',
+  // pathPrefix: '/angrybearclub',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
