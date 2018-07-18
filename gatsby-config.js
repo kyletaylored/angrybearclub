@@ -2,12 +2,12 @@ module.exports = {
   siteMetadata: {
     title: 'Gatstrap',
     description: 'Gatsby starter for bootstrap a blog',
-    siteUrl: 'https://gatstrap.netlify.com',
-    author: 'jaxx2104',
-    twitter: 'jaxx2104',
+    siteUrl: 'https://www.angrybear.club',
+    author: 'kyletaylored',
+    twitter: 'kyletaylored',
     adsense: '',
   },
-  pathPrefix: '/angrybearclub',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
@@ -43,10 +43,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Gatstrap',
-        short_name: 'Gatstrap',
-        description: 'Gatsby starter for bootstrap a blog',
-        homepage_url: 'https://gatstrap.netlify.com',
+        name: 'Angry Bear Club',
+        short_name: 'angrybearclub',
+        description: 'Static site used as a placeholder for my weird projects.',
+        homepage_url: 'https://www.angrybear.club',
         start_url: '/',
         background_color: '#fff',
         theme_color: '#673ab7',
