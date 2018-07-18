@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/angrybearclub/app-16818cb4b9048e6182f1.js","0a9ff1758a19620e3c2d936369cb173b"],["/angrybearclub/commons-6eb05cafcaf7e7e2c081.js","bdf60262f7e8cce575f6c590f2aa0e2e"],["/angrybearclub/index.html","62ebe58009852a6bc006b53eb7586c18"],["/angrybearclub/manifest.json","e92b2b9d2dda3ae16e7df792c6cf21f4"],["/angrybearclub/manifest.webmanifest","08b4206bd05c6dd4e95323dab52a534d"],["/angrybearclub/offline-plugin-app-shell-fallback/index.html","7db83a34dde88319f3254eca9c492df1"]];
+var precacheConfig = [["/app-16818cb4b9048e6182f1.js","0a9ff1758a19620e3c2d936369cb173b"],["/app-1992e57d37ba93f4c5b0.js","186beef4443b6cf19ce8a3bd05a9770b"],["/app-f375a826bd0203fbc6ca.js","182d5d24af9487d451609252ac624c61"],["/commons-6eb05cafcaf7e7e2c081.js","af5c184518c42fbf4ae986e39b5b68af"],["/index.html","e4bafbb0e10e8d7b0eeb9c3455fd0e9d"],["/manifest.json","e92b2b9d2dda3ae16e7df792c6cf21f4"],["/manifest.webmanifest","08b4206bd05c6dd4e95323dab52a534d"],["/offline-plugin-app-shell-fallback/index.html","c3f883ecfef9a53081236a85cca0eb64"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
